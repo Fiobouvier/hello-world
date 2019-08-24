@@ -4,5 +4,6 @@
 CISC7201 Introduction to Data Science Programming
 
 
-Hello World
-print ("Hellp World")
+Hi Professor,
+
+I am a beginner in GitHub. Thank you for teaching me this semester! I am following the guide and making a commit message now.
