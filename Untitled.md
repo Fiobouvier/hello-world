@@ -4,14 +4,5 @@
 CISC7201 Introduction to Data Science Programming
 
 
-```python
-print ("Hello World")
-```
-
-    Hello World
-
-
-
-```python
-
-```
+Hello World
+print ("Hellp World")
